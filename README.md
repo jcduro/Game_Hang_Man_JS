@@ -62,9 +62,9 @@ Ganas si completas la palabra antes de agotar los intentos.
 ---
 
 📂 Estructura de Archivos
-index.html → Página principal del juego
-hang.css → Estilos visuales y animaciones
-hang.js → Lógica y control del juego
+- index.html → Página principal del juego
+- hang.css → Estilos visuales y animaciones
+- hang.js → Lógica y control del juego
 
 ---
 
