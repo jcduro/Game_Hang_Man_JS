@@ -18,7 +18,7 @@ Juega directamente en línea y desafía tus conocimientos para adivinar la palab
 
 ✨ Pruebalo Online
 
-[HangMan](https://jcduro.bexartideas.com/proyectos/hang_man_game/index.php)
+[HangMan](https://jcduro.bexartideas.com/proyectos/dashjc/hang_man_game/hang.php)
 
 --- 
 
