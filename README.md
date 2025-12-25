@@ -12,7 +12,7 @@ Juega directamente en línea y desafía tus conocimientos para adivinar la palab
 
 🖼️ Vista previa
 
-![Hagman_Game](preview.gif)
+![Hagman_Game](previewhang.gif)
 
 --- 
 
