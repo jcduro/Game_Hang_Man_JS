@@ -4,25 +4,25 @@
 
 ---
 
-📷 Descripción
+## 📷 Descripción
 
 Juega directamente en línea y desafía tus conocimientos para adivinar la palabra oculta antes de quedarte sin intentos.
 
 ---
 
-🖼️ Vista previa
+## 🖼️ Vista previa
 
 ![Hagman_Game](previewhang.gif)
 
 --- 
 
-✨ Pruebalo Online
+## ✨ Pruebalo Online
 
 [HangMan](https://jcduro.bexartideas.com/proyectos/dashjc/hang_man_game/hang.php)
 
 --- 
 
-🚀 Características
+## 🚀 Características
 - Interfaz de usuario amigable y responsiva.
 - Juego interactivo con tablero de letras y visualización de pistas.
 - Contador de intentos y letras incorrectas.
@@ -32,13 +32,13 @@ Juega directamente en línea y desafía tus conocimientos para adivinar la palab
 
 ---
 
-📊 Lenguajes y Herramientas
+## 📊 Lenguajes y Herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,windows,&theme=light&perline=8)](https://skillicons.dev)
 
 ---
 
-📦 Instalación Local
+## 📦 Instalación Local
 Si quieres instalar y ejecutar el juego en tu máquina local:
 
 Clona el repositorio:
@@ -53,7 +53,7 @@ cd hang_man_game
 Abre index.html en tu navegador.
 ```
 
-🕹️ ¿Cómo Jugar?
+## 🕹️ ¿Cómo Jugar?
 Haz clic en cada letra del abecedario para intentar adivinar la palabra.
 Cada error resta un intento, ¡cuidado!
 Usa el botón “Give me a clue!” para recibir una pista (opcional).
@@ -61,14 +61,14 @@ Ganas si completas la palabra antes de agotar los intentos.
 
 ---
 
-📂 Estructura de Archivos
+## 📂 Estructura de Archivos
 - index.html → Página principal del juego
 - hang.css → Estilos visuales y animaciones
 - hang.js → Lógica y control del juego
 
 ---
 
-🙋‍♂️ Autor
+## 🙋‍♂️ Autor
 Desarrollado por JcDuro
 © 2025 JcDuro - Code & Ideas
 
